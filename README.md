@@ -1,8 +1,31 @@
-# React + Vite
+# Brainwave - Modern UI/UX Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Brainwave adalah website modern UI/UX yang dikembangkan menggunakan React.js dan Tailwind CSS. Website ini menampilkan prinsip-prinsip UI/UX modern dengan desain yang ramping, animasi yang mulus, dan pengalaman pengguna secara keseluruhan yang tinggi. Website ini bisa dijadikan referensi atau inspirasi untuk aplikasi atau website modern di masa depan.
 
-Currently, two official plugins are available:
+## ⚙️ Tech Stack
+- **Vite**
+- **React.js**
+- **Tailwind CSS**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔋 Features
+
+### 👉 Beautiful Sections
+Menyertakan berbagai bagian menarik seperti hero, layanan, fitur, cara penggunaan, roadmap, harga, footer, dan header.
+
+### 👉 Parallax Animations
+Efek menarik yang dipicu oleh gerakan mouse dan scrolling.
+
+### 👉 Complex UI Geometry
+Memanfaatkan Tailwind CSS untuk bentuk-bentuk rumit seperti tampilan fitur melingkar, garis grid, dan garis samping.
+
+### 👉 Latest UI Trends
+Menggabungkan elemen desain modern seperti bento grids.
+
+### 👉 Cool Gradients
+Meningkatkan visual dengan gradien stylish menggunakan Tailwind CSS untuk kartu, tombol, dll.
+
+### 👉 Responsive
+Menjamin fungsionalitas dan estetika yang mulus di semua perangkat.
+
+### ...and many more
+Termasuk arsitektur kode dan reusabilitas yang baik.
