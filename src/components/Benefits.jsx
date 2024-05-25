@@ -19,6 +19,7 @@ const Benefits = () => {
               className="block relative p-0.5 bg-no-repeat bg-[length:100%_100%] md:max-w-[22rem] lg:-right-15 "
               style={{
                 backgroundImage: `url(${item.backgroundUrl})`,
+                backgroundSize: '100% 100%',
               }}
               key={item.id}
             >
